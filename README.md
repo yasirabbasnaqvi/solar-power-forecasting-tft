@@ -42,3 +42,31 @@ solar-power-forecasting-tft/
 ├── app.py               # Streamlit web dashboard application
 ├── requirements.txt     # Python dependencies for cloud/local deployment
 └── README.md            # Project documentation
+```
+
+---
+
+## 🚀 Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yasirabbasnaqvi/solar-power-forecasting-tft.git](https://github.com/yasirabbasnaqvi/solar-power-forecasting-tft.git)
+   cd solar-power-forecasting-tft
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Launch the Streamlit app:**
+   ```bash
+   streamlit run app.py
+   ```
+
+---
+
+## 👥 Contributors
+* **Yasir Abbas Naqvi** — [GitHub](https://github.com/yasirabbasnaqvi)
+* **Gopal Tomar**
+* **Kishan Tiwari**
